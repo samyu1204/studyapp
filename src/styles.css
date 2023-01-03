@@ -1,0 +1,38 @@
+.NavBar {
+    border-bottom: 1px groove rgb(221, 221, 221);
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1%;
+    padding-inline-end: 5%;
+    padding-inline-start: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 0.5rem;
+  }
+  
+  li {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+  }
+  
+  a:link {
+    text-decoration: none;
+    color: gray;
+  }
+  a {
+    display: flex;
+    align-items: center;
+    color:royalblue;
+    font-size: large;
+  }
+  
+  .Fluff {
+    padding-left: 5px;
+  }
+
+  

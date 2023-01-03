@@ -1,0 +1,5 @@
+{ 
+    "transactions": [{"id": 3, "type": "money"}],
+    "spending": [],
+    "saving": []
+}
